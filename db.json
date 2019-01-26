@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Jhonata Sobrinho"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "text": "Great article!!!"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "text": "Awesome!"
+    }
+  ]
+}
